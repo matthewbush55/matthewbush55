@@ -2,9 +2,13 @@
 
 ![beach](./beach2.jpg)
 
-![Matt's github stats](https://github-readme-stats.vercel.app/api?username=matthewbush55&show_icons=true&count_private=true&theme=algolia&line_height=27&show_icons=true&hide=stars,issues)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matthewbush55&show_icons=true&count_private=true&theme=algolia&line_height=27&show_icons=true&hide=stars,issues)">
+</p>
 
-[Linkedin](https://linkedin.com/in/matthewrbush)
+<!-- <p align="center">
+  <a href="https://linkedin.com/in/matthewrbush">LinkedIn</a>
+</p> -->
 <!--
 **matthewbush55/matthewbush55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
