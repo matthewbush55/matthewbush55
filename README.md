@@ -2,15 +2,9 @@
 
 ![beach](./beach2.jpg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matthewbush55&show_icons=true&count_private=true&theme=algolia&line_height=27&show_icons=true&hide=stars,issues)">
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=matthewbush55&show_icons=true&count_private=true&theme=algolia&line_height=27&show_icons=true&hide=stars,issues)
 
-<!-- <p align="center">
-  <a href="https://linkedin.com/in/matthewrbush">LinkedIn</a>
-</p> -->
-<!--
-**matthewbush55/matthewbush55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **matthewbush55/matthewbush55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
